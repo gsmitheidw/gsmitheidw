@@ -11,12 +11,12 @@
 * Enterprise server hardware from Dell, Cisco etc
 
 ##### Chocolatey Packages Maintainer for:
-[Intel HAXM](https://github.com/gsmitheidw/haxm) [chocolatey](https://community.chocolatey.org/packages/haxm/7.7.0)
-[Weka](https://github.com/gsmitheidw/weka) [chocolatey](https://community.chocolatey.org/packages/Weka/3.8.5)
-[Digital](https://github.com/gsmitheidw/Digital) [chocolatey](https://community.chocolatey.org/packages/digital)
-[smz32v50](https://github.com/gsmitheidw/smz32v50) [chocolatey](https://community.chocolatey.org/packages/smz32v50)
-[Visual Paradigm Community Edition](https://github.com/gsmitheidw/visualparadigm-ce) [chocolatey](https://community.chocolatey.org/packages/visualparadigm-ce)
-[Disk LED](https://github.com/gsmitheidw/diskled-chocolatey) [chocolatey](https://community.chocolatey.org/packages/diskled)
+[Intel HAXM](https://github.com/gsmitheidw/haxm) [chocolatey](https://community.chocolatey.org/packages/haxm/7.7.0)  
+[Weka](https://github.com/gsmitheidw/weka) [chocolatey](https://community.chocolatey.org/packages/Weka/3.8.5)  
+[Digital](https://github.com/gsmitheidw/Digital) [chocolatey](https://community.chocolatey.org/packages/digital)  
+[smz32v50](https://github.com/gsmitheidw/smz32v50) [chocolatey](https://community.chocolatey.org/packages/smz32v50)  
+[Visual Paradigm Community Edition](https://github.com/gsmitheidw/visualparadigm-ce) [chocolatey](https://community.chocolatey.org/packages/visualparadigm-ce)  
+[Disk LED](https://github.com/gsmitheidw/diskled-chocolatey) [chocolatey](https://community.chocolatey.org/packages/diskled)  
 
 
 ✉️ Contact me at this username on twitter or gmail
