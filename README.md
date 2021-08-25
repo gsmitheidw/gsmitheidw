@@ -10,9 +10,9 @@
 * Micro sized computers such as Rasperry Pi and Intel NUC
 * Enterprise server hardware from Dell, Cisco etc
 
-##### Chocolatey Packages Maintainer for:
+#### Chocolatey Community Packages Maintainer for:
 [Intel HAXM](https://github.com/gsmitheidw/haxm) | [Release](https://community.chocolatey.org/packages/haxm/7.7.0)  
-[Weka](https://github.com/gsmitheidw/weka)| [Release](https://community.chocolatey.org/packages/Weka/3.8.5)  
+[Weka](https://github.com/gsmitheidw/weka) | [Release](https://community.chocolatey.org/packages/Weka/3.8.5)  
 [Digital](https://github.com/gsmitheidw/Digital) | [Release](https://community.chocolatey.org/packages/digital)  
 [smz32v50](https://github.com/gsmitheidw/smz32v50) | [Release](https://community.chocolatey.org/packages/smz32v50)  
 [Visual Paradigm Community Edition](https://github.com/gsmitheidw/visualparadigm-ce) | [Release](https://community.chocolatey.org/packages/visualparadigm-ce)  
