@@ -17,7 +17,7 @@
 [smz32v50](https://github.com/gsmitheidw/smz32v50) | [Release](https://community.chocolatey.org/packages/smz32v50)  
 [Visual Paradigm Community Edition](https://github.com/gsmitheidw/visualparadigm-ce) | [Release](https://community.chocolatey.org/packages/visualparadigm-ce)  
 [Disk LED](https://github.com/gsmitheidw/diskled-chocolatey) | [Release](https://community.chocolatey.org/packages/diskled)  
-[yEd-nojre](https://github.com/gsmitheidw/yed-nojre) | [Release}(https://community.chocolatey.org/packages/yed-nojre/3.23.2)
+[yEd-nojre](https://github.com/gsmitheidw/yed-nojre) | [Release](https://community.chocolatey.org/packages/yed-nojre/3.23.2)
 
 ✉️ Contact me at this username on twitter or gmail
 
