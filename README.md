@@ -9,6 +9,7 @@
 * Homelab and general System Administration
 * Micro sized computers such as Rasperry Pi and Intel NUC
 * Enterprise server hardware from Dell, Cisco etc
+* Tools to aid Genealogy research
 
 #### Chocolatey Community Packages Maintainer for:
 [Intel HAXM](https://github.com/gsmitheidw/haxm) | [Release](https://community.chocolatey.org/packages/haxm/7.7.0)  
