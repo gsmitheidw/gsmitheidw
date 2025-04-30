@@ -1,5 +1,7 @@
 ### 💻 Hi! 💻
 
+This is a personal account, a few snippets of small projects and code that hopefully others will find useful. 
+
 #### Areas of technical interest include (in no particular order):
 
 * Scripting in powershell/bash
@@ -20,11 +22,17 @@
 - [yEd-nojre](https://github.com/gsmitheidw/yed-nojre) 
 - [Intel HAXM](https://github.com/gsmitheidw/haxm) 
 
-✉️ Contact me at this username on gmail
 
 ### Notable Project Repos
-- [go-ssh-copy-id](https://github.com/gsmitheidw/go-ssh-copy-id) 
-- [GenealogyTools](https://github.com/gsmitheidw/GenealogyTools)
+- [go-ssh-copy-id](https://github.com/gsmitheidw/go-ssh-copy-id)  
+Something I felt Windows really lacks is an equivalent of ssh-copy-id which is native in Linux/Unix
+- [GenealogyTools](https://github.com/gsmitheidw/GenealogyTools)  
+A few tools to help with processing DNA matches and genealogy, mostly with Gedmatch kits and DNA Painting
+- [termux.properties](https://github.com/gsmitheidw/termux.properties)  
+A better default termux toolbar. Removes the backspace bell sound which is annoying.
+
+#### Contact
+✉️  Feel free to contact me at this username on gmail
 
 <!--
 **gsmitheidw/gsmitheidw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
