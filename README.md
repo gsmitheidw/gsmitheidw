@@ -24,7 +24,7 @@ This is a personal account, a few snippets of small projects and code that hopef
 
 
 ### Notable Project Repos
-- [pogo-s2-kildare](https://github.com/gsmitheidw/pogo-s2-kildare)
+- [pogo-s2-kildare](https://github.com/gsmitheidw/pogo-s2-kildare)  
 Mapping for Pokémon Go using the S2 cell structure. Set to Kildare Ireland, but can be set to any location.  
 This allows you to manually plot PokéStops, Gyms and non-Pogo items onto your local area as an alternative  
 to IITC and equivalent solutions since the breakaway from Ingress/Niantic to Scopely. 
